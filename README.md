@@ -5,7 +5,7 @@ A modern and responsive password generator built using React. It allows users to
 
 ## 📸 Project Preview
 
-![Password Generator UI](images/pas.png)
+![Password Generator UI](images/pass.PNG)
 
 ---
 
