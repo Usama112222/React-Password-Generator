@@ -42,23 +42,19 @@ A modern and responsive password generator built using React. It allows users to
 
 Clone the repository:
 
-
 git clone https://github.com/Usama112222/React-Password-Generator
-
 Install dependencies:
-
 npm install
-
 Run the project:
-
 npm run dev
-📋 Future Improvements
+
+##📋 Future Improvements
 Add password strength meter 🔥
 Add dark/light theme toggle 🌗
 Add password history feature 📜
 Improve animations and UI polish ✨
 
-👨‍💻 Author
-Usama Liaqat
-GitHub: https://github.com/Usama112222
+## 👨‍💻 Author
+## Usama Liaqat
+## GitHub: https://github.com/Usama112222
 
