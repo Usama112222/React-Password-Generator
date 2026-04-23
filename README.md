@@ -48,7 +48,8 @@ npm install
 Run the project:
 npm run dev
 
-##📋 Future Improvements
+## 📋 Future Improvements
+
 Add password strength meter 🔥
 Add dark/light theme toggle 🌗
 Add password history feature 📜
