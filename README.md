@@ -51,8 +51,11 @@ npm run dev
 ## 📋 Future Improvements
 
 Add password strength meter 🔥
+
 Add dark/light theme toggle 🌗
+
 Add password history feature 📜
+
 Improve animations and UI polish ✨
 
 ## 👨‍💻 Author
