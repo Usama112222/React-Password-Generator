@@ -42,7 +42,7 @@ A modern and responsive password generator built using React. It allows users to
 
 Clone the repository:
 
-```bash
+
 git clone https://github.com/Usama112222/React-Password-Generator
 
 Install dependencies:
